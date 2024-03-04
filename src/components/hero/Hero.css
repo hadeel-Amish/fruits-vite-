@@ -1,0 +1,23 @@
+.maintitle{
+  position: absolute;
+  top: 50%;
+  right:  50%;
+  transform: translate(50%,-100%);
+  -webkit-transform: translate(50%,-100%);
+  -moz-transform: translate(50%,-100%);
+  -ms-transform: translate(50%,-100%);
+  -o-transform: translate(50%,-100%);
+  font-family: Roboto;
+  font-size: 55px;
+  font-weight: 900;
+  line-height: 64px;
+  letter-spacing: 0em;
+  color: #274C5B;
+}
+.mainimg{
+
+max-width: 100%;
+object-fit: none;
+height: 100vh;
+
+}

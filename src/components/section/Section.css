@@ -1,0 +1,175 @@
+.perent{
+background-color: #ffffff;
+}
+.perent .img img{
+max-width: 100%;
+/* margin: 20px; */
+object-fit:none;
+padding: 10px;
+height: 100vh;
+
+}
+.perent {
+position: relative;
+}
+.perent  .container{
+background-color: #ffffff;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 6px;
+}
+.perent .container .info{
+  max-width: 100%;
+  margin: auto ;
+  /* padding: 15px 0; */
+  padding: 15px 10px;
+}
+.perent .container .text .para{
+  font-family: Yellowtail;
+font-size: 25px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+color: #7EB693;
+margin-bottom: 10px;
+}
+.perent .container .text .title{
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: 900;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
+color: #274C5B;  
+max-width:  100%;
+}
+.perent .container .text .des{
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #525C60;
+  margin: 13px 0;
+  max-width:  100%;
+
+}
+.perent .container .icons {
+margin: 13px 0;
+}
+.perent .container .icons .icon{
+  display: flex;
+  gap: 15px;
+ 
+}
+.perent .container .icons .texticonpara ,.perent .container .about .aboutflex p{
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  color: #525C60;  
+  max-width:  100%;
+}
+.perent .container .icons img{
+  width: 65px;
+  height: 65px;
+  top: 0.5px;
+  border-radius: 20px;  
+}
+.perent .container .icons .texticon .texticontitle1,.texticontitle2 ,.perent .container .about .input h1{
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #274C5B;
+  
+}
+.perent .container .btnn{
+  width:180px;
+  height: 70px;
+  padding:28px 39px 28px 39px;
+  gap: 10px;
+  border-radius:10px ;
+  -webkit-border-radius:10px ;
+  -moz-border-radius:10px ;
+  -ms-border-radius:10px ;
+  -o-border-radius:10px ;
+  background-color: #274C5B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+}
+.perent .container .btnn a{
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+  
+}
+.perent .container .soical img{
+margin: 20px ; 
+width: 19.59px;
+height: 19.59px;
+}
+
+.perent .container .about .aboutflex{
+  margin-top: 10px;
+}
+.perent .container .about .aboutflex p{
+margin: 4px 0;
+width: 80%;
+}
+.perent .container .about .input{
+  width: 300px;
+  height: 70px;
+  padding:20px;
+  border-radius: 49px;
+gap: 10px  ;
+  -webkit-border-radius: 49px;
+  -moz-border-radius: 49px;
+  -ms-border-radius: 49px;
+  -o-border-radius: 49px;
+  background-color: #ECECEC;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.perent .container .about .input .circal{
+  width: 11px;
+  height: 11px;
+  top: 6px;
+  left: 4px;
+  background-color: #ECECEC;
+  border: 3px solid #274C5B;
+  border-radius:50% ;
+  -webkit-border-radius:50% ;
+  -moz-border-radius:50% ;
+  -ms-border-radius:50% ;
+  -o-border-radius:50% ;
+}
+@media (max-width: 1100px){
+  .perent .container{
+flex-direction: column !important 
+
+    }
+    .perent  .container .info{
+    margin: 0px 80px;
+    }
+    .perent .container .text .title{
+      max-width: 100%;
+    }
+    .perent .container .text .des{
+      max-width: 100%;
+    }
+}

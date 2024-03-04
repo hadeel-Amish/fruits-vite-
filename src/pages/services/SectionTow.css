@@ -1,0 +1,81 @@
+.SectionTow{
+
+}
+.SectionTow .mainpar{
+  font-family: Yellowtail;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: center;
+  color: #7EB693;
+  padding: 15px 0;
+}
+.SectionTow h1{
+  font-family: Roboto;
+font-size: 35px;
+font-weight: 900;
+line-height: 41px;
+text-align: center;
+color: #274C5B;
+
+}
+.SectionTow .flex{
+  display: flex;
+  gap: 16px;
+}
+.SectionTow .childcard{
+  margin-bottom: 7px;
+}
+
+.SectionTow .childcard img{
+  
+}
+.SectionTow .childcard h3{
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 23px;
+ color: #274C5B;  
+}
+.SectionTow .childcard p{
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+
+color: #525C60;  
+}
+.SectionTow .one{
+
+}
+/* @media (max-width: 400px){
+  .SectionTow .childcard .paraaaa{
+    margin-left: 0px !important;
+   
+      }
+} */
+@media (max-width: 600px){
+  .SectionTow .childcard .paraaaa{
+    /* margin-left: 50px !important;
+    text-align: center !important; */
+    /* margin: auto; */
+
+
+      }
+}
+@media (max-width: 950px){
+  .SectionTow .flex{
+flex-wrap: wrap;
+  }
+  .SectionTow .center {
+    margin: auto;
+  }
+  .SectionTow .childcard .paraaaa{
+/* margin-left: 70px !important; */
+
+
+  }
+  .SectionTow{
+    padding: 0 40px;
+    }
+}

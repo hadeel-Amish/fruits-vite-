@@ -1,0 +1,43 @@
+{
+  "Person": [
+    {
+      "id": 1,
+      "name": "Riga Pelore",
+      "image": "https://s3-alpha-sig.figma.com/img/8088/060e/4aafb6c6a1f4c0807a7b2350d493de27?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZFCdg7lqa0zfpQovbrG~uGrnR70fop4y-F9Zb9ub81OWj60x1tdSxOCslz6nRxH20ZkhaIYGPfigQhCJ2lj4t7DLr-AZlqvfTwmk9ZVLH4QHbE9PNKrWWXuZMdaXnSjclbOXCJ9xz7vBdcD03~StsiLJnb1ciyxIdtgyVQ4TII6Axtcc0TtgPWn~-kzALiPM2v7Ho~QG30AkUYZl~uKytN37c6tvH-ztM8aDRQyuoe8CFAU7jHAbQJxF7RLLEWpOrUt-yDpMx4aLwR7dUeUt6U~FpcelmCY3xcdStFLYBc~jdfyh9YlsZTGnXjG51Qmn4ZQZHQjUdmup0f~QnphOvg__",
+      "career": "Farmer",
+      "insta": "",
+      "facebook": "",
+      "twitar": ""
+    },
+    {
+      "id": 2,
+      "name": "Giovani Bacardo",
+      "image": "https://s3-alpha-sig.figma.com/img/81d1/f235/b1e1a967a966173b71dedd993c00994e?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ylm8peNSSW8Psz6ULg3C9DoRNVPBmrpb5PB39tDwQkEu-BbPtROV-cIJx1bwi8ExXSiA0SVDXNIJl3qhrav67K4DNp9fRAIHhEwEEwhABvULDwI8ChAtmcpc3sBG0eg7kbkOiq48pyZ0GxTvB0~wLUcQivAb7lJSwwMrP6r18GmSE9eIZedgUP2cBsphAKn1BXXGWhuhL3ctBwOzas0k8uhfc6pr6c~2DOxSLxjba2x5SX1g1UYzoSPVbgtaKv57avDVcyYjb~iXu0c~Fqg0agJg0axdeL1y6SZeU0L0dL0kxr2pV1d9aNvo8XJn6AX0qAOo3Z9A39N-VyMmXGVr3w__",
+      "career": "Farmer"
+    },
+    {
+      "id": 3,
+      "name": "Marianne Loreno",
+      "image": "https://s3-alpha-sig.figma.com/img/c319/4df5/47426d0c5c84ad5a449d38a9998993d5?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mJ2rcMJAwsuy7Fm~ZaRlSdvUqiREfJSxUCzxGpKeXxoiowc93BoDAWK1zsAQEAj2C784SvWsc6udaXDhagRojl1y0X3Rw2kwU913vgMtTi2O8elhTJU~~dMN1ioCPatvM3x5Dp3Q8FQu4mns1zcUJInIUf3ttcLdTQsWYTOznZ~2e~KZ8Yx0QjEfVcodG-0fJ0oD1SiFT34tUclfvNplPhaxXOZ4IrHWWJ8jn1byQ3KQsqTwdwhDgjYHiZQSk~kP6rOx9~joKHgWJA5a06tVqR70sVdcTp0Wzwrli1oAw2ySrfPfnxHfK43TcTMjgofgkRFsUPuQisFfQWgTsab0mg__",
+      "career": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Keira Knightley",
+      "image": "https://s3-alpha-sig.figma.com/img/e47b/351e/49e1281e41ceb31c63a4946612c5801c?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BIoqzRzjDZ7rl7xo1SRIYaFbkd-tBckHvCbkJ37sNZRDBPMPxIbCBUV4mDZGa6vxk42eqVbHBiM2NUUZoHhAgefvvzHeAQ0AgTKq8WAFagzqpzo3uiZTRw5Un8D-p~lnZ-GCcbMeCiI6WXPEdxbGHRFKOfsuTl-5Zf5M3dHkwfu41oUR1FY-UaTF3MW3B9f2HZysdj-xaeN5Tcct97LIzG5yasajlGHhBOacZI68oor0k2WHfRIk69tFTFxfUO9J2qeFUn6Y4f71gvgO9xlt~V3gGqsO0GOHWdPAGUfibB1XJ0XvuDwloVsaVFvyJ81ISR6SI4dSODgEfKRlmKxldQ__",
+      "career": "Farmer"
+    },
+    {
+      "id": 5,
+      "name": "Scott Lawrence",
+      "image": "https://s3-alpha-sig.figma.com/img/511d/4c99/16b41e14527b70b98413b3bd81380940?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Gm8K-ZFy9cnKsWMFmeCVzDE0z50GsxrrTlgsuBo6BRm9VwjkKlTXVy1iQWFfUcOxjqbV7uGnHUSaB~xMZcLkzlhksrjOQWN~TdokalvD7Wm7uO~rPkMPz3gAvn43OlM37uFqc5vCGPZI5uT5ja37ImolAsvWa4bDh-FNLFcJ3uTQzqg2jx6w6fH0FAEslGVYpgnecS5N5Dx1k8jop6BZ8jGjB66Zk168fx95SWtlYfJstWK369Hd0S8-bNQvO~9XyMsmC6c5uq9tcazukdW~M58GeseDyBAM~9qWMS6a3vlb7eb6-dqxAmgsAZwue5B0AIwPpl0oPpc298rDSvXK6w__",
+      "career": "Farmer"
+    },
+    {
+      "id": 6,
+      "name": "Karen Allen",
+      "image": "https://s3-alpha-sig.figma.com/img/6779/6dc9/47cc4688cf1db33a1865d19c956c1ba6?Expires=1710115200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iUTLPQNhDb7wPu-f70neB2PRu-2k4lzdqHJiE6LudnA9D0Ra8NsAW8vOPxJtt5eJOaDnZNeGP37Vh1vbwnEmZt77TqnwZABfg0adqXWWssd6gZGnVe~OO54UibFAoRHg5-curyo9KHq9eVyJvT4PnFH8L-MmkaRSPChhzTf96VgVjF-V4r4X0Yc8Vl8akxy4-9SDKXvFqbOf9L9Fu6-6Jjs13BVqU0gTBScQPYUq~esPQiBAEDKIOjNWW2uqvpjld1le-exLBK3FMu3NHGmLYUFdcFLJBEs~~IrTkPCWJAmcWUGSTkUj5BUCy6074XuD6l9VoT0HklBrkSKrFE8r7g__",
+      "career": "Designer"
+    }
+  ]
+}

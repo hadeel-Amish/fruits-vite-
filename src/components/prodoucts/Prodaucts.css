@@ -1,0 +1,23 @@
+
+.perentmain{
+  display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+
+}
+ .showless button, .loadmore button{
+  width:140px;
+  height: 50px;
+  padding:28px ;
+  gap: 10px;
+  border-radius:10px ;
+  background-color: #274C5B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  color: aliceblue;
+  outline: none;
+  border: none;
+}

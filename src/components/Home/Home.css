@@ -1,0 +1,142 @@
+.home .imghome{
+  width: 100%;
+  object-fit: none;
+ height: 100vh;
+}
+.home .titlehome{
+  position: absolute;
+  top: 50%;
+  left:   0%;
+  transform: translate(10%,-50%);
+  -webkit-transform: translate(10%,-50%);
+  -moz-transform: translate(10%,-50%);
+  -ms-transform: translate(10%,-50%);
+  -o-transform: translate(10%,-50%);
+  max-width:  416px;
+  height: 191px;
+  font-family: Roboto;
+  font-size: 55px;
+  font-weight: 900;
+  line-height: 64px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #274C5B;
+}
+.home .btn{
+  width: 180px;
+  height: 70px;
+  border-radius:10px;
+  gap: 10px  ;
+background-color: #EFD372;
+display: flex;
+justify-content: center;
+align-items: center;
+position: absolute;
+top: 75%;
+margin-left: 33px;
+}
+.home .btn a{
+  /* padding: 28px 39px 28px 39px; */
+  font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #274C5B;
+}
+.home .btn .icon{
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background-color: #274C5B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home .btn .Vector{
+  width: 8px;
+}
+.home .section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  background-color: rgb(198, 215, 229);
+}
+.home .card{
+  position: relative;
+}
+.home .card .secimg{
+width: 100%;
+}
+.home .card .textcard{
+  position: absolute;
+    color: white;
+    transform: translateY(-50%);
+    top: 50%;
+    left: 10%;
+}
+.home .card .titlesec1{
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 47px;
+  color: #274C5B;
+  max-width: 270px;
+  height: 84px;
+}
+.home .card .titlesec2{
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 47px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  width: 270px;
+  height: 84px;
+
+}
+
+.home .card .pYellowtail{
+  font-family: Yellowtail;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7EB693;
+
+}
+
+@media (max-width: 344px){
+  .home .titlehome{
+    font-size: 34px;
+    max-width: 290px;
+    margin-top: 80px;
+  
+      }
+      .home .btn{
+        margin-top: 45px;
+      }
+}
+@media screen and (max-width: 550px) and (min-width: 344px){
+  .home .titlehome{
+    font-size: 40px;
+    max-width: 300px;
+    margin-top: 30px;
+
+      }
+}
+
+@media (max-width: 800px){
+  .home .section{
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,41 @@
+.team{
+ margin: 30px 0;
+}
+.team .h5team{
+  font-family: Yellowtail;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+color: #7EB693;  
+}
+.team .hteam{
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: 900;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: center;
+color: #274C5B;  
+}
+.team .pteam{
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+color: #525C60;  
+width: 60%;
+margin: auto;
+}
+.team .cardteam{
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin: 20px 0;
+flex-wrap: wrap;
+
+
+}

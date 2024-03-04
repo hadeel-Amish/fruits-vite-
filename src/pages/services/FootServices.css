@@ -1,0 +1,75 @@
+.FootServices{
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+}
+.FootServices .text{
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  -moz-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  -o-transform: translate(-50%,-50%);
+}
+.FootServices p{
+  font-family: Yellowtail;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+color: #7EB693;  
+}
+.FootServices h1{
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 30px;
+  text-align: center;
+color: #274C5B;  
+margin: 10px 0;
+max-width: 100%;
+}
+.FootServices h5{
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+color: #274C5B;  
+margin: auto;
+max-width: 100%;
+}
+
+.FootServices .foot{
+position: relative;
+}
+.FootServices .foot img{
+  max-width: 100%;
+  max-height: 100%
+}
+.FootServices .videoserv{
+  max-width: 75px;
+  margin: auto;
+}
+.FootServices .videoserv .video{
+  max-width: 75px;
+}
+@media (max-width: 650px){
+  .FootServices h1{
+    font-size: 25px;
+    line-height: 31px;
+    font-weight: 800;
+    margin: 0;
+  }
+  .FootServices h5{
+    font-size: 13px;
+     line-height: 20px;
+  }
+ 
+.FootServices .text{
+
+}
+}
